@@ -1,38 +1,54 @@
-.App {
+@media screen and (min-width: 1024px) {
+  p {
+      font-size: 1.1em;
+  }
+
+  .font-footer {
+      font-size: 0.8em;
+  }
+
+  .popover {
+      max-width: 23em!important;
+      width: 23em!important;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  p {
+      font-size: 0.9em;
+  }
+
+  .font-footer {
+      font-size: 0.5em;
+  }
+
+  .popover {
+      max-width: 25em !important;
+      width: 25em !important;
+  }
+
+  .popover-body {
+      padding: 0.3em !important;
+  }
+
+  .navbar-brand {
+      font-size: medium;
+  }
+
+  .navbar-text {
+      padding: 0;
+  }
+}
+
+h1 {
   text-align: center;
+  text-transform: uppercase;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.btn-group {
+  width : 100% !important
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.dropdown-menu {
+  min-width: 0!important;
 }
