@@ -4,6 +4,7 @@
   "description": "Cafe App E-commerce Project",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -14,13 +15,14 @@
     "express": "^4.17.1",
     "express-rate-limit": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.15",
     "path": "^0.12.7",
     "promisify-node": "^0.5.0",
     "uniqid": "^5.0.3"
-},
-"devDependencies": {
+  },
+  "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0",
     "supertest": "^4.0.2"
-}
+  }
 }
