@@ -47,7 +47,7 @@ class Header extends Component {
             <Navbar inline collapseOnSelect className='my-auto text-uppercase shadow py-1' expand="lg" bg="white" sticky='top'>
                 <Navbar.Brand className='nav-link pl-0 ml-md-5 pl-md-5 font-weight-bold'>
                     <Link to='' className='text-dark'>
-                        Mama's Restaurant
+                        Cafe Wink
                     </Link>
                 </Navbar.Brand>
                 <Navbar.Collapse id="responsive-navbar-nav">

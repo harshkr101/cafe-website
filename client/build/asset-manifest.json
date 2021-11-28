@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5dea1d5.chunk.css",
+    "main.js": "/static/js/main.02037958.chunk.js",
+    "main.js.map": "/static/js/main.02037958.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.429e79c4.chunk.css": "/static/css/2.429e79c4.chunk.css",
+    "static/js/2.65831b69.chunk.js": "/static/js/2.65831b69.chunk.js",
+    "static/js/2.65831b69.chunk.js.map": "/static/js/2.65831b69.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.aad7d8a33348a2d81373c15fdabef4fc.js": "/precache-manifest.aad7d8a33348a2d81373c15fdabef4fc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.429e79c4.chunk.css.map": "/static/css/2.429e79c4.chunk.css.map",
+    "static/css/main.a5dea1d5.chunk.css.map": "/static/css/main.a5dea1d5.chunk.css.map",
+    "static/media/card_home_1.jpg": "/static/media/card_home_1.c0d6e9c0.jpg",
+    "static/media/card_home_2.jpg": "/static/media/card_home_2.1102d054.jpg",
+    "static/media/card_home_3.jpg": "/static/media/card_home_3.f38341af.jpg",
+    "static/media/home_kitchen.jpg": "/static/media/home_kitchen.9e97590f.jpg",
+    "static/media/home_sitting.jpg": "/static/media/home_sitting.a5fd01a7.jpg",
+    "static/media/home_top.jpg": "/static/media/home_top.981f5115.jpg",
+    "static/media/menu_top.jpg": "/static/media/menu_top.a49fa35a.jpg"
+  }
+}

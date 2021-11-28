@@ -11,7 +11,7 @@ import ColumnsContainer from "../components/ColumnsContainer";
 export default function Home() {
     return (
         <React.Fragment className='Home'>
-            <CustomParallax title='home cuisine' text="Voted IDC's Best Thai Restaurant" img={home_top} height='40em'/>
+            <CustomParallax title='cafe wink' text="Delhi's best voted cafe" img={home_top} height='40em'/>
             <CustomContainer/>
             <CustomParallax title='eat together'
                             text='Every plate achieves that elusive, cuisine-defining balance of sweet, salty, and sour — even dessert.'
