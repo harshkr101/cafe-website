@@ -1,54 +1,54 @@
 @media screen and (min-width: 1024px) {
-  p {
-      font-size: 1.1em;
-  }
+    p {
+        font-size: 1.1em;
+    }
 
-  .font-footer {
-      font-size: 0.8em;
-  }
+    .font-footer {
+        font-size: 0.8em;
+    }
 
-  .popover {
-      max-width: 23em!important;
-      width: 23em!important;
-  }
+    .popover {
+        max-width: 23em!important;
+        width: 23em!important;
+    }
 }
 
 @media screen and (max-width: 1024px) {
-  p {
-      font-size: 0.9em;
-  }
+    p {
+        font-size: 0.9em;
+    }
 
-  .font-footer {
-      font-size: 0.5em;
-  }
+    .font-footer {
+        font-size: 0.5em;
+    }
 
-  .popover {
-      max-width: 25em !important;
-      width: 25em !important;
-  }
+    .popover {
+        max-width: 25em !important;
+        width: 25em !important;
+    }
 
-  .popover-body {
-      padding: 0.3em !important;
-  }
+    .popover-body {
+        padding: 0.3em !important;
+    }
 
-  .navbar-brand {
-      font-size: medium;
-  }
+    .navbar-brand {
+        font-size: medium;
+    }
 
-  .navbar-text {
-      padding: 0;
-  }
+    .navbar-text {
+        padding: 0;
+    }
 }
 
 h1 {
-  text-align: center;
-  text-transform: uppercase;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .btn-group {
-  width : 100% !important
+    width : 100% !important
 }
 
 .dropdown-menu {
-  min-width: 0!important;
+    min-width: 0!important;
 }
